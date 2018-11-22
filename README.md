@@ -6,4 +6,4 @@ Jos on ehdottaa jotain, niin tee PR!
 
 ## Reseptit
 
-- Kookosbanaaniletut
+- [Kookosbanaaniletut](https://github.com/Pikkulahti/reseptivihko/blob/master/kookosbanaaniletut.md)
