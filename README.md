@@ -7,3 +7,4 @@ Jos on ehdottaa jotain, niin tee PR!
 ## Reseptit
 
 - [Kookosbanaaniletut](https://github.com/Pikkulahti/reseptivihko/blob/master/kookosbanaaniletut.md)
+- [Parempi pakastepinaattikeitto](https://github.com/Pikkulahti/reseptivihko/blob/master/parempipinaattikeitto.md)
