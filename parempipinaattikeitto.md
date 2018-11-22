@@ -1,4 +1,4 @@
-[< Takaisin listaan.](https://github.com/Pikkulahti/reseptivihko)
+[< Takaisin listaan](https://github.com/Pikkulahti/reseptivihko)
 # Parempi pakastepinaattikeitto
 
 - 400 g  	pakastepinaattikeittoa
