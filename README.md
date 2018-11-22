@@ -1,8 +1,12 @@
 # Pikkulahden reseptivihko
 
-Kerään tänne reseptejä hyviksi koetuista seteistä.
+My finnish recipe collection.
 
-Jos on ehdottaa jotain, niin tee PR!
+--
+
+Kerään tänne reseptejä hyviksi koetuista seteistä. Nam!
+
+Jos on ehdottaa jotain, niin tee pull request!
 
 ## Reseptit
 
